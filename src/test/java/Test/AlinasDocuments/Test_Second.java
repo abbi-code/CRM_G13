@@ -1,4 +1,4 @@
-package Test;
+package Test.AlinasDocuments;
 
 public class Test_Second {
     //Demo Alina
